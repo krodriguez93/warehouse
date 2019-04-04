@@ -12,7 +12,7 @@
 |
 |
 */
-  define( 'DB_HOST', 'mysql' );          // Set database host
+  define( 'DB_HOST', '10.131.6.17' );          // Set database host
   define( 'DB_USER', 'openshift' );          // Set database user
   define( 'DB_PASS', 'openshift*' );     // Set database password
   define( 'DB_NAME', 'oswa_inv' );        // Set database name
